@@ -169,8 +169,9 @@ Integrating Flask web framework and REST into the Airbnb Clone project from a pr
 ---
 
 ## Authors
-Montassar Hajri - [Github](https://github.com/MontaCoder) /
-Safa Miloud - [Github](https://github.com/safamld) / 
+Montassar Hajri - [Github](https://github.com/MontaCoder) 
+
+Safa Miloud - [Github](https://github.com/safamld)  
 
 ---
 
